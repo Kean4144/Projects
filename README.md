@@ -73,6 +73,11 @@ An Equipment Planner made in Google Sheets for the MMORPG Phantasy Star Online 2
 This project is still actively maintained.  
 - https://docs.google.com/spreadsheets/d/1ShT8I1wj9mGh-hGXqF0j9tvUU_jkYLvGd4gPZjNzRpo/edit?usp=sharing
 
+## NGS Title Tracker
+An Title Tracker & Assembler made in Google Sheets for the MMORPG Phantasy Star Online 2: New Genesis (Solo)  
+This project is still actively maintained.  
+- https://docs.google.com/spreadsheets/d/1uIq-YaJHOJfKp6UxShyTbX1IjO1M51Tg1xR7ycVCTDU/edit?usp=sharing
+
 ## NGS Enhancement Simulator
 An Equipment Enhancing Simulator made in Google Sheets for the MMORPG Phantasy Star Online 2: New Genesis (Solo)  
 This project is still actively maintained.  
